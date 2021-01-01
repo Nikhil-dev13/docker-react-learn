@@ -1,1 +1,1 @@
-## A repository bootstraped with CRA to learn about Docker
+## A repository bootstrapped with CRA to learn about Docker
